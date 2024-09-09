@@ -6,4 +6,4 @@ Meu nome é Augusto Dias
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-[(https://tenor.com/bq5pl.gif)]
+[(<div class="tenor-gif-embed" data-postid="18809633" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/pomeranian-gamer-xbox-gif-18809633">Pomeranian Gamer GIF</a>from <a href="https://tenor.com/search/pomeranian-gifs">Pomeranian GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)]
